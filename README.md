@@ -13,3 +13,5 @@ All The JavaScript Projects Repositories
 | 07  | [Film Project-ES6 Classes](https://github.com/MBeklevic/Film_Project_V2_w-ES6-Classes)  | [Webpage](https://mbeklevic.github.io/Film_Project_V2_w-ES6-Classes/)|
 | 08  | [Yandex Translate API](https://github.com/MBeklevic/Yandex_Translate_API_Project)       | [Webpage](https://mbeklevic.github.io/Yandex_Translate_API_Project/)|
 | 09  | [Exchange API Project](https://github.com/MBeklevic/Exchange_API_Project)               | [Webpage](https://mbeklevic.github.io/Exchange_API_Project/)        |
+| 10  | [Github API Project](https://github.com/MBeklevic/Github_API_Project)                   | [Webpage](https://mbeklevic.github.io/Github_API_Project/)          |
+
