@@ -11,7 +11,8 @@ All The JavaScript Projects Repositories
 | 05  | [Analog Clock](https://github.com/MBeklevic/Analog_Clock)                               | [Webpage](https://mbeklevic.github.io/Analog_Clock/)                |
 | 06  | [Film Project-JSPrototypes](https://github.com/MBeklevic/Film_Project_V1_w-prototype)   | [Webpage](https://mbeklevic.github.io/Film_Project_V1_w-prototype/) |
 | 07  | [Film Project-ES6 Classes](https://github.com/MBeklevic/Film_Project_V2_w-ES6-Classes)  | [Webpage](https://mbeklevic.github.io/Film_Project_V2_w-ES6-Classes/)|
-| 08  | [Yandex Translate API](https://github.com/MBeklevic/Yandex_Translate_API_Project)       | [Webpage](https://mbeklevic.github.io/Yandex_Translate_API_Project/)|
-| 09  | [Exchange API Project](https://github.com/MBeklevic/Exchange_API_Project)               | [Webpage](https://mbeklevic.github.io/Exchange_API_Project/)        |
-| 10  | [Github API Project](https://github.com/MBeklevic/Github_API_Project)                   | [Webpage](https://mbeklevic.github.io/Github_API_Project/)          |
+| 08  | [Rock Paper Scissors Game](https://github.com/MBeklevic/Rock_Paper_Scissors_Game)       | [Webpage](https://mbeklevic.github.io/Rock_Paper_Scissors_Game/)    |
+| 09  | [Yandex Translate API](https://github.com/MBeklevic/Yandex_Translate_API_Project)       | [Webpage](https://mbeklevic.github.io/Yandex_Translate_API_Project/)|
+| 10  | [Exchange API Project](https://github.com/MBeklevic/Exchange_API_Project)               | [Webpage](https://mbeklevic.github.io/Exchange_API_Project/)        |
+| 11  | [Github API Project](https://github.com/MBeklevic/Github_API_Project)                   | [Webpage](https://mbeklevic.github.io/Github_API_Project/)          |
 
